@@ -1,1 +1,2 @@
 branch test merging file.
+branch test get conflict
